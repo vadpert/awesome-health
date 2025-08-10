@@ -43,6 +43,38 @@ The data you generate will be broadly reusable — one big, well-designed multi-
 5. Nutrient–microbe interactions – how micronutrients affect microbial enzymes, and vice versa.
 
 
+
+
+| Condition	| US prevalence (latest est.)	| Gut microbiome role? | Vitamin link (common or studied) |
+| ---	| ---	| --- | --- |
+| Celiac disease |	0.7–1.0%	| Yes – loss of tolerance; dysbiosis reported; 	| malabsorption of iron, B12, folate, D	Iron, B12, Folate, Vitamin D |
+| Inflammatory bowel disease (Crohn’s/UC)	≈1.2–1.3%	Yes – strong dysbiosis signal; barrier & immune crosstalk	Iron, Vitamin D, B12 (ileal disease) |
+| Irritable bowel syndrome (Rome IV)	4.7–5.3%	Yes – altered microbiome & metabolites	Vitamin D (mixed evidence) |
+| GERD/chronic reflux	≈20%	Emerging – microbiome & motility links under study	— |
+| Obesity (adults)	40.30%	Yes – energy harvest & bile-acid pathways	Vitamin D (lower status common) |
+| Hypertension (adults)	47.70%	Emerging – salt-sensitive microbiome & SCFAs	Potassium, Magnesium (dietary adequacy) |
+| Type 2 diabetes (all diabetes)	11.6% (all types)	Yes – gut barrier, SCFAs, bile acids	Magnesium, Vitamin D (associations) |
+| Chronic kidney disease	≈14%	Yes – uremic toxins & gut-kidney axis	Vitamin D (activation impaired), Iron |
+| Asthma (current)	≈6–8%	Yes – early-life microbiome & immune tone	Vitamin D (mixed), Magnesium (bronchial tone) |
+| Migraine/severe headache (3‑mo)	≈15%	Possible – gut–brain links; CGRP–microbiome research	Magnesium, Riboflavin (B2) |
+| Anxiety disorders (past year)	≈19%	Possible – gut–brain axis; inflammation	Magnesium, B12, Vitamin D (associations) |
+| Major depressive episode (past year)	≈8%	Possible – gut–brain axis; inflammation	Folate, B12, Vitamin D (associations) |
+| Arthritis (all types)	≈19–21%	Yes (RA): dysbiosis & mucosal immunity	Vitamin D (associations) |
+| Obstructive sleep apnea (AHI>5)	Men ~34%, Women ~17%	Indirect – via obesity/inflammation	Vitamin D (associations) |
+| Histamine intolerance	Estimated 1–3% (no large NHANES data; likely underdiagnosed)	Yes – microbiome degrades histamine; DAO enzyme activity critical	Vitamin C, Copper (DAO cofactor), Vitamin B6 |
+| Small intestinal bacterial overgrowth (SIBO)	Varies; 4–18% in general population, higher in IBS/IBD	Yes – direct microbial overgrowth in small bowel	Vitamin B12 (malabsorption), Fat-soluble vitamins (if severe) |
+| Mast cell activation syndrome (MCAS)	Likely <1%, but growing recognition	Yes – mast cells interact with microbiome & metabolites	Vitamin C, Magnesium (stabilization potential) |
+| Eosinophilic esophagitis (EoE)	~0.5–1% (children & adults)	Possible – allergic inflammation; microbiome research emerging	Vitamin D (immune modulation) |
+Chronic fatigue syndrome / ME	0.3–0.6% diagnosed; higher suspected	Possible – gut dysbiosis & leaky gut in subgroups	Magnesium, B12, CoQ10 (adjunct) |
+| Fibromyalgia	~2% of adults	Possible – low-grade inflammation, gut-brain axis under study	Magnesium, Vitamin D (mixed evidence) | 
+| POTS (postural orthostatic tachycardia syndrome)	0.1–1% (est., often post-viral)	Possible – immune triggers; microbiome not well-studied	Electrolytes (Na, Mg, K), Vitamin D | 
+
+
+
+
+
+------------------------------------------
+
 # 12 Month Learning Plan
 
 ## Month 1–3: Foundations in Biology & Immunology
