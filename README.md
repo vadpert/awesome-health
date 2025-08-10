@@ -63,11 +63,11 @@ The data you generate will be broadly reusable — one big, well-designed multi-
 | Obstructive sleep apnea (AHI>5)	 | Men ~34%, Women ~17% | 	Indirect – via obesity/inflammation |	Vitamin D (associations) |
 | Histamine intolerance	 | Estimated 1–3% (no large NHANES data; likely underdiagnosed) |	Yes – microbiome degrades histamine; DAO enzyme activity critical | 	Vitamin C, Copper (DAO cofactor), Vitamin B6 |
 | Small intestinal bacterial overgrowth (SIBO)	 | Varies; 4–18% in general population, higher in IBS/IBD | 	Yes – direct microbial overgrowth in small bowel	 | Vitamin B12 (malabsorption), Fat-soluble vitamins (if severe) |
-| Mast cell activation syndrome (MCAS) | Likely <1%, but growing recognition | 	Yes – mast cells interact with microbiome & metabolites | 	Vitamin C, Magnesium (stabilization potential) |
+| Mast cell activation syndrome (MCAS) | Likely <1%, but growing recognition | 	Yes – mast cells interact with microbiome & metabolites |	Vitamin C, Magnesium (stabilization potential) |
 | Eosinophilic esophagitis (EoE) | ~0.5–1% (children & adults) | 	Possible – allergic inflammation; microbiome research emerging | Vitamin D (immune modulation) |
 Chronic fatigue syndrome / ME	| 0.3–0.6% diagnosed; higher suspected | 	Possible – gut dysbiosis & leaky gut in subgroups | Magnesium, B12, CoQ10 (adjunct) |
-| Fibromyalgia | ~2% of adults | 	Possible – low-grade inflammation, gut-brain axis under study	Magnesium, Vitamin D (mixed evidence) | 
-| POTS (postural orthostatic tachycardia syndrome) | 0.1–1% (est., often post-viral) | 	Possible – immune triggers; microbiome not well-studied	 | Electrolytes (Na, Mg, K), Vitamin D | 
+| Fibromyalgia | ~2% of adults | 	Possible – low-grade inflammation, gut-brain axis under study	 | Magnesium, Vitamin D (mixed evidence) | 
+| POTS (postural orthostatic tachycardia syndrome) | 0.1–1% (est., often post-viral) | 	Possible – immune triggers; microbiome not well-studied | Electrolytes (Na, Mg, K), Vitamin D | 
 
 
 ------------------------------------------
