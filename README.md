@@ -73,6 +73,7 @@ Chronic fatigue syndrome / ME	| 0.3–0.6% diagnosed; higher suspected | 	Possib
 
 
 | Category | Item / Compound | Key active constituents | Primary functions | Common sources / culinary use | Gut / immune / barrier roles | Evidence strength | Histamine & celiac notes | Gut barrier evidence level | Memory / brain support notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Core Essential — Vitamins | Vitamin A | retinol, beta-carotene | Vision; epithelial integrity; immune regulation | Liver, eggs, dairy; orange/yellow veg | Maintains mucosal barrier & IgA responses | High | Histamine-safe; GF | Strong | Not directly linked |
 | Core Essential — Vitamins | Vitamin C | ascorbic acid | Collagen synthesis; antioxidant; immune support | Citrus, berries, peppers, amchoor | Supports tight junction repair; may lower histamine | High | Histamine-safe; GF | Strong | Possible neuroprotective effect |
 | Core Essential — Vitamins | Vitamin D | cholecalciferol D3, ergocalciferol D2 | Calcium balance; immune modulation | Sunlight, fatty fish, fortified foods | Shapes gut immunity; associated with dysbiosis when low | High | Histamine-safe; GF | Low | Not directly linked |
