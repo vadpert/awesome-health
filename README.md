@@ -329,4 +329,12 @@ Preprint servers: BioRxiv’s microbiome & immunology categories for cutting-edg
 
 
 
+Notes
+* GI Inflamation - Infection, Food Alergy, Chemical Exposure,
+  * Causes supression of DAO chemical breakdown
+* Vitamin C / Copper / B6
+* functional biochemistry
+* dr. jonathan wright
+
+
 
