@@ -337,8 +337,24 @@ Notes
 * dr. jonathan wright
 
 
+* cynthia li md
 
+* Functional Medicine / System Thinking
 
 * Mitochondria - energy theory
 
+* Circadian Clock / chrono biology
+ * rhyme
+   
+* Accupuncture
+  * in terms of systems 
+
+* How to get more energy / chi
+
+* Ancestrol Diets / Nutrient Density
+  
+* traditional chinese medicine paradigm / system thinking
+
 * 
+
+
