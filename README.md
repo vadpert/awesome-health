@@ -1,3 +1,9 @@
+# Diet
+1. Weston A. Price - Ancestral Diet - https://www.westonaprice.org/health-topics/abcs-of-nutrition/principles-of-healthy-diets-2/#gsc.tab=0
+2. 
+
+
+
 
 ## Understanding and Modulating the Gut–Immune–Barrier Axis
 
@@ -355,6 +361,9 @@ Notes
   
 * traditional chinese medicine paradigm / system thinking
 
-* 
+* sage walk
 
+* balance hormones / estragent + progesterin
+
+* 
 
